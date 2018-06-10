@@ -1,6 +1,6 @@
 ---
 layout: me
-title: println("HelloWorld")
+title: "println("HelloWorld")"
 ---
 
 Hi! I'm Brett! 

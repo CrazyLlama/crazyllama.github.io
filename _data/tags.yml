@@ -1,11 +1,11 @@
-re:
+tag1:
   name: re
 
-ctops:
+tag2:
   name: ctops
   
-redteam:
+tag3:
   name: redteam
 
-misc:
+tag4:
   name: misc
