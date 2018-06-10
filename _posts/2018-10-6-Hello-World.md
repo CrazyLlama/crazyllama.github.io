@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: SGVsbG8gV29ybGQ=
-tags: misc.
+tags: misc
 ---
 
 Welcome to the site!
