@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://temporary.fun
-baseurl: /
+baseurl: /project
 
 # variables
 name: Write-Host "Welcome!^"
