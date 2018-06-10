@@ -7,5 +7,5 @@ CTOps:
 RedTeam:
   name: RedTeam
 
-misc.:
-  name: misc.
+misc:
+  name: misc
