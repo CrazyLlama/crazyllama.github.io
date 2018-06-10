@@ -1,11 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://temporary.fun
+baseurl: /
 
 # variables
-name: Your Site Name
-description: Your description here
-google_verification: null
+name: Write-Host "Welcome!^"
+description: Apparently I needed a blog for things, so it's happening here and now
 
 
 # File management
