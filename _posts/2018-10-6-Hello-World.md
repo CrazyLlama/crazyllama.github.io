@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "SGVsbG8gV29ybGQ="
-tags: tag4
+tags: misc
 ---
 
 Welcome to the site!
