@@ -1,11 +1,11 @@
-tag1:
-  name: tag1
+RE:
+  name: RE
 
-tag2:
-  name: tag2
+CTOps:
+  name: CTOps
 
-tag3:
-  name: tag3
+RedTeam:
+  name: RedTeam
 
-tag4:
-  name: tag4
+misc.:
+  name: misc.
