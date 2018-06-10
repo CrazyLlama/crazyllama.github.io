@@ -1,11 +1,11 @@
-RE:
-  name: RE
+re:
+  name: re
 
-CTOps:
-  name: CTOps
-
-RedTeam:
-  name: RedTeam
+ctops:
+  name: ctops
+  
+redteam:
+  name: redteam
 
 misc:
   name: misc
