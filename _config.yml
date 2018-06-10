@@ -1,2 +1,4 @@
 theme: jekyll-theme-dinky
 url: https://temporary.fun
+plugins:
+  - jekyll-sitemap
