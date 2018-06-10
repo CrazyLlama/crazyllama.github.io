@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://temporary.fun
-baseurl: /project
+baseurl: /
 
 # variables
 name: Write-Host "Welcome!^"
@@ -9,7 +9,7 @@ description: Apparently I needed a blog for things, so it's happening here and n
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "CNAME", ".gitignore"]
 
 # Sass
 sass:
