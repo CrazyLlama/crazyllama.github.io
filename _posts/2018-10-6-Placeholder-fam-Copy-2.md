@@ -1,6 +1,6 @@
 ---
 layout: default
-title: placeholder
+title: placeholder - redteam
 tags: redteam
 ---
 
