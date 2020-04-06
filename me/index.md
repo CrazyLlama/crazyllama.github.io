@@ -2,6 +2,8 @@
 layout: me
 title: "println("HelloWorld")"
 ---
-Hi! I'm Brett! 
+Hey, I'm Brett! 
 * * *
-Apparently I do things with computers so I thought I'd share a few ideas and thoughts on things I'm doing/have done/would like to do right here on my own site :)
+Security Operations is the name, doing it well is the game.
+* * *
+All about ensuring that base framework of security is there, but my major focus is on user experience for everyone! - when things are hard to use, they're hardly going to be used!
