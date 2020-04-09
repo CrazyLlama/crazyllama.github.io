@@ -1,6 +1,6 @@
 ---
-title: "The injected coinhive iframe - a quick look"
-date: 2018-01-15T19:55:50Z
+layout: default
+title: The injected coinhive iframe - a quick look
 tags: ctops
 ---
 
