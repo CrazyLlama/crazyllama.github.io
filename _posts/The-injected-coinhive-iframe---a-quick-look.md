@@ -1,8 +1,9 @@
 ---
 title: "The injected coinhive iframe - a quick look"
 date: 2018-01-15T19:55:50Z
-tags: ["malware","ctops"]
+tags: ctops
 ---
+
 ## Originally posted on the MGH blog - 01-15-2018
 https://blog.manchestergreyhats.co.uk/posts/the-injected-coinhive-iframe---a-quick-look/
 
