@@ -6,6 +6,7 @@ tags: ["malware","ctops"]
 ## Originally posted on the MGH blog - 01-15-2018
 https://blog.manchestergreyhats.co.uk/posts/the-injected-coinhive-iframe---a-quick-look/
 
+---
 
 Hi everyone, this is my first blog post so I thought I'd introduce myself:
 
