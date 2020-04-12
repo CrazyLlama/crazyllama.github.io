@@ -33,7 +33,7 @@ Anyone not up to date on their trendy IOCs won't know that `securedatas.download
 By visiting the site we come across the absolute _classic_:
 
 
-![image](images/malware.PNG)
+![image](images/malware.png)
 
 
 But ignoring this we can view the source of the page as such in chrome `view-source:https://www.securedatas.download/jquery-3.2.1.min.js` which shows us this output:
